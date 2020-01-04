@@ -1,0 +1,16 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "Project to test ValidateDomainsRequestedByBrowser",
+  "main": "TestProject.js",
+  "scripts": {
+    "test": "node TestProject.js"
+  },
+  "author": "Richard Audette",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}

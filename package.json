@@ -1,0 +1,16 @@
+{
+  "name": "validatedomainsrequestedbybrowser",
+  "version": "1.0.0",
+  "description": "Web automation script to compare domains requested by browser against whitelist",
+  "main": "ValidateDomainsRequestedByBrowser.js",
+  "scripts": {
+    "test": "node ValidateDomainsRequestedByBrowser.js"
+  },
+  "author": "Richard Audette",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "psl": "^1.7.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
